@@ -17,7 +17,11 @@
 <h1>📌 My main project 📌</h1>
 
 <div>
+<<<<<<< HEAD
 <img src="./Images/Proyectos/CountriesPi/landing.png" style="max-width:400px; margin:10px; border: 1px solid white; box-shadow: 0 0 10px white;" alt="imagen proyecto"/>
+=======
+<img src="./Images/Proyectos/CountriesPi/landing.png" style="max-width:100px; margin:10px; border: 1px solid white; box-shadow: 0 0 10px white;" alt="imagen proyecto"/>
+>>>>>>> 36a90bac7d8df99918fec4103fa460f20f0eee02
 <img src="./Images/Proyectos/CountriesPi/home1.png" style="max-width:400px; margin:10px; border: 1px solid white; box-shadow: 0 0 10px white;" alt="imagen proyecto"/>
 <img src="./Images/Proyectos/CountriesPi/home2.png" style="max-width:400px; margin:10px; border: 1px solid white; box-shadow: 0 0 10px white;" alt="imagen proyecto"/>
 <img src="./Images/Proyectos/CountriesPi/details.png" style="max-width:400px; margin:10px; border: 1px solid white; box-shadow: 0 0 10px white;" alt="imagen proyecto"/>
