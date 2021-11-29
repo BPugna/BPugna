@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/bpugnaloni-dev/" target="_blank">
+<img src="https://user-images.githubusercontent.com/73837548/143832458-8f7d4b1b-dc48-4226-84f7-635bd1f8365a.gif" alt="presentacion"/>
+</a>
+
+<h2>Full Stack Developer 💻 from Argentina 🇦🇷 to 🌎</h2>
+
 
 <!--
 **BPugna/BPugna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
